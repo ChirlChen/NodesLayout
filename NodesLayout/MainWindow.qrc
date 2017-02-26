@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="CMainWindow">
+    <file>Resources/wait.gif</file>
+  </qresource>
+</RCC>
